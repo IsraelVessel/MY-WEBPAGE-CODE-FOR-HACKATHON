@@ -83,9 +83,7 @@
                 <input type="email" name="email" id="email" required>
                 
                 <label for="message">Message:</label>
-                
-                <button type="submit">Send</button>
-            </form>
+            
             <p> 
                 Or email me directly at <a href="mailto:your.email@example.com">solomonisraelmaichibi@gmail.com</a>
             </p>
