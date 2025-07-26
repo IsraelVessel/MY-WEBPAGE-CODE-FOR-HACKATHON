@@ -173,7 +173,7 @@
                 
                 <button type="submit">Send</button>
             </form>
-            <p>
+            <p> 
                 Or email me directly at <a href="mailto:your.email@example.com">solomonisraelmaichibi@gmail.com</a>
             </p>
         </section>
