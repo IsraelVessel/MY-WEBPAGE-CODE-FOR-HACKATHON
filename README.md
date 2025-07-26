@@ -75,17 +75,7 @@
        
         <section id="contact">
             <h2>📬 Contact Me</h2>
-            <form class="contact-form" action="mailto:your.email@example.com" method="POST" enctype="text/plain">
-                <label for="name">Name:</label>
-                <input type="text" name="name" id="name" required>
-                
-                <label for="email">Email:</label>
-                <input type="email" name="email" id="email" required>
-                
-                <label for="message">Message:</label>
-            
-            <p> 
-                Or email me directly at <a href="mailto:your.email@example.com">solomonisraelmaichibi@gmail.com</a>
+            <a href="mailto:your.email@example.com">solomonisraelmaichibi@gmail.com</a>
             </p>
         </section>
     </main>
