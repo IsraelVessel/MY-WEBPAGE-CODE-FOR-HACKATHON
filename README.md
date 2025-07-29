@@ -76,7 +76,7 @@
         <section id="contact">
     <h2>📬 Contact Me</h2>
      <p>📞 <a href="tel:+1234567890">+(234) 7041872389 </a></p>
-     <p>💬 <a href="https://wa.me/+(234) 9037940733" target="_blank" rel="noopener noreferrer">+1 (234) 9037940733 (WhatsApp)</a></p>
+     <p>💬 <a href="https://wa.me/+(234) 9037940733" target="_blank" rel="noopener noreferrer"> (234) 9037940733 (WhatsApp)</a></p>
   <a href="mailto:your.email@example.com">solomonisraelmaichibi@gmail.com</a>  
 </section>
 
