@@ -74,10 +74,12 @@
         </section>
        
         <section id="contact">
-            <h2>📬 Contact Me</h2>
-            <a href="mailto:your.email@example.com">solomonisraelmaichibi@gmail.com</a>
-            </p>
-        </section>
+    <h2>📬 Contact Me</h2>
+    <a href="mailto:your.email@example.com">solomonisraelmaichibi@gmail.com</a>
+    <p>📞 <a href="tel:+1234567890">+1 (234) 567-890</a></p>
+    <p>💬 <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">+1 (234) 567-890 (WhatsApp)</a></p>
+</section>
+
     </main>
 </body>
 </html>
